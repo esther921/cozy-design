@@ -3,6 +3,7 @@ import LogoGridder from "../LogoGridder";
 export default function GetCozy() {
   return (
     <>
+      {/* new comment */}
       <section className=" font-head text-primary bt-4 bg-noise bg-opacity-10 h-fit lg:grid lg:grid-cols-3 md:pl-32 md:pr-12 flex flex-col pt-24 md:pt-48 w-full pb-24">
         <div className="flex flex-col gap-10 col-span-2">
           <h1 className="font-Geomanist text-3xl font-bold pl-10">🌴🐻🇺🇸</h1>
